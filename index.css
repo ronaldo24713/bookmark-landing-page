@@ -515,7 +515,9 @@ p#p-faqs-details{
    font-style: normal;
    font-weight: normal;
 }
-
+a#a-nav-text:hover{
+background-color:yellow;
+}
 label#p-text-faqs{
     display: block;
     margin: auto;
